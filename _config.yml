@@ -1,0 +1,14 @@
+layout_spectrum: 0.2980742119252682
+typography_spectrum: 0.12711058324202895
+color:
+  brandStrength: 0.7980075522791594
+  lightness: 0.04979365388862789
+  saturation: 0.9229566634166986
+  rhythmicContrast: 0.6780654529575258
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: orrris stone
